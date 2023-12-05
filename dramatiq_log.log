@@ -1,0 +1,48 @@
+2023-12-07T09:20:04.042703654Z 2023-12-07 09:20:04 [INFO] Restarting consumer in 3.00 seconds.
+2023-12-07T09:20:43.707076187Z 2023-12-07 09:20:43 [INFO] Task: Confirming Email Process. Priority High. Task Executed.
+2023-12-07T09:20:43.708251906Z 2023-12-07 09:20:43 [INFO] Task: Sending Email. Priority High. Task Executed.
+2023-12-07T09:20:43.709823151Z 2023-12-07 09:20:43 [INFO] Task: Processing Async Scan. Priority Medium-High. Task Executed.
+2023-12-07T09:20:43.711355777Z 2023-12-07 09:20:43 [INFO] Task: Processing Update User. Priority Medium. Task Executed.
+2023-12-07T09:20:43.712680858Z 2023-12-07 09:20:43 [INFO] Task: Checking if Healthy. Priority High. Task Executed.
+2023-12-07T09:20:43.713614068Z 2023-12-07 09:20:43 [INFO] Task: Search Task Names. Priority Medium. Task Executed.
+2023-12-07T09:20:43.715083145Z 2023-12-07 09:20:43 [INFO] Task: Scrapping Role Galaxy. Priority Low. Task Executed.
+2023-12-07T09:20:43.716570872Z 2023-12-07 09:20:43 [INFO] Task: Scrap Repository. Priority Low. Task Executed.
+2023-12-07T09:20:43.719625753Z 2023-12-07 09:20:43 [INFO] Task: Executing Rate Limiting.
+2023-12-07T09:20:43.721109811Z 2023-12-07 09:20:43 [INFO] Task: Executing Rate Limiting.
+2023-12-07T09:20:43.721999426Z 2023-12-07 09:20:43 [INFO] Retrying message '0e37999e-19c5-4445-8afd-9637ed6ec7a4' in 8289 milliseconds.
+2023-12-07T09:20:43.722037761Z 2023-12-07 09:20:43 [INFO] Retrying message '2cd44edb-b292-4ab4-bb73-4d2309aa6069' in 13844 milliseconds.
+2023-12-07T09:20:43.722270765Z 2023-12-07 09:20:43 [INFO] Retrying message 'a8e3c046-19e0-4e95-934a-5fd7cb04df85' in 12017 milliseconds.
+2023-12-07T09:20:43.722597202Z 2023-12-07 09:20:43 [INFO] Retrying message '056e419d-e3a0-46a3-ae8d-cb5d19d48f03' in 10696 milliseconds.
+2023-12-07T09:20:43.722616292Z 2023-12-07 09:20:43 [INFO] Retrying message 'f29169c1-8504-4a51-b5c4-107120aeff2a' in 9519 milliseconds.
+2023-12-07T09:20:43.722677665Z 2023-12-07 09:20:43 [INFO] Retrying message '239793ff-1467-48d0-9200-0098cf30ad2d' in 9614 milliseconds.
+2023-12-07T09:20:43.724450785Z 2023-12-07 09:20:43 [INFO] Retrying message 'ac03be4e-1df9-4a23-95be-2537dbb36689' in 12783 milliseconds.
+2023-12-07T09:20:43.725618500Z 2023-12-07 09:20:43 [INFO] Retrying message '0b9e1f1f-bb4f-4fb5-a214-b36b4d07d588' in 8350 milliseconds.
+2023-12-07T09:20:43.729088536Z 2023-12-07 09:20:43 [INFO] Result from the Matcher Model: matcher_model_process('My message for testing..')
+2023-12-07T09:20:43.729521395Z 2023-12-07 09:20:43 [INFO] Result from the Matcher Model: matcher_model_process('My message for testing..')
+2023-12-07T09:20:43.729716432Z 2023-12-07 09:20:43 [INFO] Result from the Matcher Model: matcher_model_process('My message for testing..')
+2023-12-07T09:20:43.730766469Z 2023-12-07 09:20:43 [INFO] Result from the Matcher Model: matcher_model_process('My message for testing..')
+2023-12-07T09:20:43.731314186Z 2023-12-07 09:20:43 [INFO] Result from the Matcher Model: matcher_model_process('My message for testing..')
+2023-12-07T09:20:43.732070209Z 2023-12-07 09:20:43 [INFO] Result from the Matcher Model: matcher_model_process('My message for testing..')
+2023-12-07T09:20:43.732703147Z 2023-12-07 09:20:43 [INFO] Lock Acquired, Loading the matcher model.
+2023-12-07T09:20:43.733663496Z 2023-12-07 09:20:43 [INFO] Lock already acquired, skipping matcher model.
+2023-12-07T09:20:43.733830042Z 2023-12-07 09:20:43 [INFO] Lock already acquired, skipping matcher model.
+2023-12-07T09:20:43.733862491Z 2023-12-07 09:20:43 [INFO] Result from the Matcher Model: matcher_model_process('My message for testing..')
+2023-12-07T09:20:43.734544596Z 2023-12-07 09:20:43 [INFO] Lock already acquired, skipping matcher model.
+2023-12-07T09:20:43.734612624Z 2023-12-07 09:20:43 [INFO] Result from the Matcher Model: matcher_model_process('My message for testing..')
+2023-12-07T09:20:43.734791390Z 2023-12-07 09:20:43 [INFO] Lock already acquired, skipping matcher model.
+2023-12-07T09:20:43.735296919Z 2023-12-07 09:20:43 [INFO] Result from the Matcher Model: matcher_model_process('My message for testing..')
+2023-12-07T09:20:43.735616972Z 2023-12-07 09:20:43 [INFO] Lock already acquired, skipping matcher model.
+2023-12-07T09:20:43.736720408Z 2023-12-07 09:20:43 [INFO] Lock already acquired, skipping matcher model.
+2023-12-07T09:20:43.736794296Z 2023-12-07 09:20:43 [INFO] Result from the Matcher Model: matcher_model_process('My message for testing..')
+2023-12-07T09:20:43.737565359Z 2023-12-07 09:20:43 [INFO] Lock already acquired, skipping matcher model.
+2023-12-07T09:20:43.738422681Z 2023-12-07 09:20:43 [INFO] Lock already acquired, skipping matcher model.
+2023-12-07T09:20:43.739109254Z 2023-12-07 09:20:43 [INFO] Lock already acquired, skipping matcher model.
+2023-12-07T09:20:52.746280279Z 2023-12-07 09:20:52 [INFO] Task: Executing Rate Limiting.
+2023-12-07T09:20:52.754126745Z 2023-12-07 09:20:52 [INFO] Task: Executing Rate Limiting.
+2023-12-07T09:20:53.742968417Z 2023-12-07 09:20:53 [INFO] AI matcher model loaded successfully....
+2023-12-07T09:20:53.748022510Z 2023-12-07 09:20:53 [INFO] Task: Executing Rate Limiting.
+2023-12-07T09:20:53.750161778Z 2023-12-07 09:20:53 [INFO] Task: Executing Rate Limiting.
+2023-12-07T09:20:54.749423514Z 2023-12-07 09:20:54 [INFO] Task: Executing Rate Limiting.
+2023-12-07T09:20:55.750279739Z 2023-12-07 09:20:55 [INFO] Task: Executing Rate Limiting.
+2023-12-07T09:20:56.756323950Z 2023-12-07 09:20:56 [INFO] Task: Executing Rate Limiting.
+2023-12-07T09:20:57.755517286Z 2023-12-07 09:20:57 [INFO] Task: Executing Rate Limiting.
