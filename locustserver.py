@@ -1,9 +1,11 @@
+import resource
 from flask import Flask, request
 import script_dramatiq_worker 
-import logging
+
+# Set a higher limit for the number of open files
+resource.setrlimit(resource.RLIMIT_NOFILE, (999999, 999999))
 
 app = Flask(__name__)
-logging.basicConfig(level=logging.INFO)
 
 @app.route('/enqueue_task', methods=['POST'])
 def enqueue_task():
@@ -32,7 +34,6 @@ def enqueue_task():
     elif task_name == "matcher_model_usage" and message:
         script_dramatiq_worker.matcher_model_usage.send(message)
 
-    logging.info(f"Enqueued task: {task_name}")
     return {"status": "task enqueued"}
 
 if __name__ == "__main__":
